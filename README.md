@@ -1,16 +1,30 @@
-# ifood_analysis
-Análise Exploratória (Estatística Descritiva)
+# 📝 Análise Exploratória Ifood
 
-Esse dataset consta com informações sobre clientes do Ifood, o qual foi fornecido pelo curso EBA - Estatística do Básico ao Avançado.
+Este é um projeto com dataset disponibilizado pelo curso EBA - Estatística do Básico ao Avançado, com o objetivo de treinar os conteúdos aprendidos de estatística descritiva através de análises em python. 
 
-Colunas que foram realizadas análises:
+> Colunas analisadas neste projeto:
+  - Income: salário do usuário
+  - education_level: nível de educação do usuário
+  - marital_status: estado civil
+  - kids: quantidades de filhos (0 a 3)
+  - expenses: valor das despesas dos usuários
 
-Income: salário do usuário
 
-education_level: nível de educação do usuário
+### 💻 Ajustes e melhorias
 
-marital_status: estado civil
+O projeto consta com uma breve análise exploratória dos dados seguindo as seguintes etapas demarcadas:
 
-kids: quantidades de filhos (0 a 3)
+- [x] Conhecimento dos tipos de dados e colunas
+- [x] Verificação estatística das colunas (média, mediana, desvio padrão, quartis)
+- [x] Tratamento de dados nulos
+- [x] Criação de nova coluna para facilitar a visualização
+- [x] Visualização gráfica de colunas separadamente e agrupadas
+- [ ] Correlação entre as colunas
 
-expenses: valor das despesas dos usuários
+🚀 Como ponto de melhoria, continuarei trabalhando neste dataset para analisar a correlação entre as colunas e o impacto que elas representam para as vendas. 
+
+
+
+
+
+
